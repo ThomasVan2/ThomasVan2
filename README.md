@@ -1,4 +1,4 @@
-<h1>Hi I'm Thomas, welcome to my Github page!<br/><a href="https://www.linkedin.com/in/joshmadakor/">LinkedIn</a></h1>
+<h1>Hi I'm Thomas, welcome to my Github page!<br/></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
