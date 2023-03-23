@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application](https://github.com/ThomasVan2/Package-Delivery-Application/blob/main/README.md)
+  - [Package Delivery Application](https://github.com/ThomasVan2/Package-Delivery-Application)
 - <b>Java</b>
   - [Scheduling Application]()
   - [Inventory System]()
