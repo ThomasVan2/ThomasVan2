@@ -3,7 +3,20 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application](https://github.com/ThomasVan2/Package-Delivery-Application/blob/main/README.md)
 - <b>Java</b>
   - [Scheduling Application]()
   - [Inventory System]()
+
+<h2>:desktop_computer: Skills and Experience: </h2>
+
+* Python
+* Java
+* C++
+* HTML
+* CSS
+
+<h2>:incoming_envelope:To contact me:</h2>
+
+* Visit my <a href="https://www.linkedin.com/in/joshmadakor/">LinkedIn</a>
+* Send an email to: Thomasvaneekelen1@gmail.com
