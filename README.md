@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Package Delivery Application](https://github.com/ThomasVan2/Package-Delivery-Application)
 - <b>Java</b>
-  - [Scheduling Application]()
+  - [Scheduling Application](https://github.com/ThomasVan2/Scheduling-Application)
   - [Inventory System]()
 
 <h2>:desktop_computer: Skills and Experience: </h2>
