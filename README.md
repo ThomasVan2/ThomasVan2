@@ -18,5 +18,5 @@
 
 <h2>:incoming_envelope:To contact me:</h2>
 
-* Visit my <a href="https://www.linkedin.com/in/joshmadakor/">LinkedIn</a>
+* Visit my <a href="https://www.linkedin.com/in/thomas-v-073585237/">LinkedIn</a>
 * Send an email to: Thomasvaneekelen1@gmail.com
