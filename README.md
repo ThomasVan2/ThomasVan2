@@ -16,7 +16,7 @@
 * HTML
 * CSS
 
-<h2>:incoming_envelope:To contact me:</h2>
+<h2>:incoming_envelope:To Contact Me:</h2>
 
 * Visit my <a href="https://www.linkedin.com/in/thomas-v-073585237/">LinkedIn</a>
 * Send an email to: Thomasvaneekelen1@gmail.com
