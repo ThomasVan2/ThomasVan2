@@ -11,10 +11,13 @@
 <h2>:desktop_computer: Skills and Experience: </h2>
 
 * Python
-* Java
+* Java (including Spring Boot)
 * C++
+* JavaScript (including React)
+* TypeScript
 * HTML
 * CSS
+* SQL (MySQL, SQLite)
 
 <h2>:incoming_envelope:To Contact Me:</h2>
 
