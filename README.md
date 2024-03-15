@@ -6,6 +6,7 @@
   - [Fishing Adventure Platform](https://github.com/ThomasVan2/Fullstack-Fishing-Application.git)
 - <b>Python</b>
   - [Package Delivery Application](https://github.com/ThomasVan2/Package-Delivery-Application)
+  - [Wildfire Analysis California](https://github.com/ThomasVan2/Wildfire_CA)
 - <b>Java</b>
   - [Scheduling Application](https://github.com/ThomasVan2/Scheduling-Application)
   - [Inventory System](https://github.com/ThomasVan2/Inventory-System)
