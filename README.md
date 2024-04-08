@@ -12,6 +12,10 @@
   - [Inventory System](https://github.com/ThomasVan2/Inventory-System)
  
 <h2>:earth_americas: GIS Projects</h2>
+<ul>
+  <li><a href="https://github.com/ThomasVan2/Fish-Diversity-Patterns-Across-California.git">Fish Diversity Across California</a></li>
+</ul>
+
 
 
 <h2>:desktop_computer: Skills and Experience: </h2>
