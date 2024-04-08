@@ -10,6 +10,8 @@
 - <b>Java</b>
   - [Scheduling Application](https://github.com/ThomasVan2/Scheduling-Application)
   - [Inventory System](https://github.com/ThomasVan2/Inventory-System)
+ 
+<h2>:earth_americas: GIS Projects</h2>
 
 <h2>:desktop_computer: Skills and Experience: </h2>
 
@@ -26,3 +28,5 @@
 
 * Visit my <a href="https://www.linkedin.com/in/thomas-v-073585237/">LinkedIn</a>
 * Send an email to: Thomasvaneekelen1@gmail.com
+
+
