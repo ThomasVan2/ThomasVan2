@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full-Stack React.js / Java Spring Boot</b>
-  - [Fishing Adventure Platform](https://github.com/ThomasVan2/Fullstack-Fishing-Application.git)
+  - [Fish Website](https://github.com/ThomasVan2/Fullstack-Fishing-Application.git)
 - <b>Python</b>
   - [Package Delivery Application](https://github.com/ThomasVan2/Package-Delivery-Application)
 - <b>Java</b>
